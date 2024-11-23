@@ -1,4 +1,3 @@
-// app.config.ts
 import { defineConfig } from '@tanstack/start/config'
 import { cloudflare } from 'unenv'
 
