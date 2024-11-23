@@ -1,0 +1,38 @@
+# Node modules directory
+node_modules/
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Environment variables file
+.env
+
+# package-lock.json, if not using it in version control
+package-lock.json
+
+# npm global packages (if used)
+.npm/
+
+# Coverage directory (for test coverage tools like Jest)
+coverage/
+
+# Build output (for build tools like Webpack, Rollup, etc.)
+dist/
+build/
+
+# TypeScript build info
+*.tsbuildinfo
+
+# VSCode settings
+.vscode/
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+
+# React Query DevTools
+.react-query-devtools/
